@@ -1,0 +1,4 @@
+run the following command to deploy
+
+- pip install -t lib/ -r requirements.txt
+- gcloud app deploy
